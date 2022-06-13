@@ -14,16 +14,16 @@ Deploy an Express server that implements Basic Authentication, with signup and s
 
 ## Heroku deployment:
 
-[home page]()
+[home page](https://basic-server-authentication.herokuapp.com/)
 
 
-[users route]()
+[users route](https://basic-server-authentication.herokuapp.com/users)
 
 
-[signin route]() 
+[signin route](https://basic-server-authentication.herokuapp.com/signin) 
 
 
-[signup route]()
+[signup route](https://basic-server-authentication.herokuapp.com/signup)
 
 
 ## UML diagram for this server:
